@@ -1,0 +1,27 @@
+.separador {
+  margin-top : 15px;
+  margin-bottom : 15px;
+  width : 100%;
+  text-align : center;
+  overflow : hidden;
+}
+
+.separador .a {
+  width : 25%;
+  float : left;
+}
+
+.separador .b {
+  width : 25%;
+  float : left;
+}
+
+.separador .c {
+  width : 25%;
+  float : left;
+}
+
+.separador .d {
+  width : 25%;
+  float : left;
+}

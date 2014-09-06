@@ -1,0 +1,1 @@
+<?php    function validararray ($array, $keys) {    foreach ($keys as $valor) {      if (!isset($array[ $valor ])) {        return false;      }    }        return true;  }

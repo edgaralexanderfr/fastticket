@@ -1,0 +1,10 @@
+.opcion {
+  margin-top : 15px;
+  margin-bottom : 15px;
+  width : 100%;
+  text-align : center;
+}
+
+.opcion .boton {
+  width : 220px;
+}
